@@ -1,0 +1,7 @@
+# frontend/.prettierignore
+node_modules
+.next
+out
+build
+*.d.ts
+package-lock.json
